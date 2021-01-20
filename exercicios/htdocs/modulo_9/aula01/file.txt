@@ -1,0 +1,2 @@
+meu novo conteudo cirado atraves do php 
+ e agora eu posso manipular os arquivos
